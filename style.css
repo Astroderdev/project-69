@@ -1,0 +1,30 @@
+html{
+    scroll-behavior: smooth;
+}
+.campus_mainDiv{
+    padding-left: 0;
+    padding-right: 0;
+    float : none;
+    border : 1px solid grey;
+}
+.campus_mainDiv img{
+    width : 100%;
+}
+.campus_mainDiv hr{
+    width: 230px;
+}
+.achieve-head{
+    font-size : 20px;
+    padding:  6px 22px;
+    border-radius: 10px;
+    margin: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.achieve-head i{
+    float: right;
+    transform: translateY(5px);
+}
+.achieve-text span{
+    color: #ff7700;
+}
